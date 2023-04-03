@@ -23,6 +23,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #17161d;
     color: #c9c9c9;
+    overflow: hidden;
 }
 
 label {
@@ -46,8 +47,8 @@ input {
 
 .logo-wrapper {
     position: relative;
-    left: 44%;
-    bottom: -55vh;
+    left: 43%;
+    bottom: -54vh;
 }
 
 img {
